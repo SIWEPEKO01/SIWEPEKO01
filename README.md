@@ -1,4 +1,4 @@
-👋<h1 align="center">Hi 👋, I'm Sithulisiwe Peko!</h1>
+<h1 align="center">Hi 👋, I'm Sithulisiwe Peko!</h1>
 
 🌄 Passionate hiker, gym enthusiast, and avid programmer with a National Diploma in Information Technology from Walter Sisulu University.
 
