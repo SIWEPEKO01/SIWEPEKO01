@@ -10,7 +10,11 @@
 
 💻 You can find me coding up a storm on GitHub, exploring innovative projects and contributing to the vibrant developer community. 💻 Passionate about coding, I've worked on several exciting projects, including:
 
-Project 1: (https://github.com/ChumaMqeke/HTML-CSS-and-JS-Website) Project 2: (https://github.com/SIWEPEKO01/banking-app) Project 3: ( https://sithulisiwe-peko.web.app) 🔗 Let's connect on [LinkedIn]((https://www.linkedin.com/in/sithulisiwe-peko-86a14a257)
+- [🚀 Project 1: HTML, CSS, and JS Website](https://github.com/ChumaMqeke/HTML-CSS-and-JS-Website)
+- [🔧 Project 2: Banking App](https://github.com/SIWEPEKO01/banking-app)
+- [🔬 Project 3: Personal Website](https://sithulisiwe-peko.web.app)
+
+🔗 Let's connect on [LinkedIn]((https://www.linkedin.com/in/sithulisiwe-peko-86a14a257)
 
 
 
