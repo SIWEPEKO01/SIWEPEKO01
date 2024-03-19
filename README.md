@@ -12,7 +12,7 @@
 
 - [🚀 Project 1: HTML, CSS, and JS Website](https://github.com/ChumaMqeke/HTML-CSS-and-JS-Website)
 - [🔧 Project 2: Banking App](https://github.com/SIWEPEKO01/banking-app)
-- [🔬 Project 3: Personal Website](https://sithulisiwe-peko.web.app)
+- [🔬 Project 3: Personal Website]([https://sithulisiwe-peko.web.app](https://sithulisiwe-peko.web.app/)
 
 🔗 Let's connect on [LinkedIn](https://www.linkedin.com/in/sithulisiwe-peko-86a14a257) to explore potential collaborations and opportunities.
 
